@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Manga</string>
+    <string name="favorites">favoris</string>
+    <string name="search">rechercher</string>
+</resources>
